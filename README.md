@@ -7,7 +7,7 @@ YelpCamp is a full-stack, RESTful web application project created alongside the 
 
 ## Features
 
-<img width="1098" alt="Screenshot 2021-01-15 013635" src="https://user-images.githubusercontent.com/54776410/104695569-96ea7200-56d2-11eb-835a-386665d613d1.png">
+<img width="1098" alt="Screenshot 2021-01-15 013635" src="https://user-images.githubusercontent.com/54776410/104696075-4de6ed80-56d3-11eb-8f05-425fcdc97d00.jpg">
 
 * Authentication:
   
