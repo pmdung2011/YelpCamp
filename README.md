@@ -1,13 +1,9 @@
 
 YelpCamp
-A campground rating web app, where users can create their own campgrounds, view and comment on others' campgrounds
 ========
 
-YelpCamp is a full-stack, RESTful web application project created alongside the Udemy course - [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/).
+YelpCamp is a full-stack, RESTful web application project created alongside the Udemy course - [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/). YelpCamp is a campground rating web app, where users can create their own campgrounds, view and comment on others' campgrounds.
 
-
-
-Feel free to clone the repository and use locally, however the site relies on several environment variables to access the database and use API's, so it can not be run as-is.
 
 ## Features
 
