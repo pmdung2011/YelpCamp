@@ -1,4 +1,3 @@
-# YelpCamp
 
 YelpCamp
 ========
