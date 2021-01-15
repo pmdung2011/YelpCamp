@@ -8,16 +8,45 @@ YelpCamp is a full-stack, RESTful web application project created alongside the 
 
 Feel free to clone the repository and use locally, however the site relies on several environment variables to access the database and use API's, so it can not be run as-is.
 
-Features
---------
-* Search for campgrounds using title, description, or author username
-* User authorization/authentication using Passport.js
-* Sign up for an account and optionally upload an avatar
-* Create a new campground
-* Edit an existing campground
-* Review a campground and see the average rating of campgrounds
-* View user profiles including posted campgrounds and reviews they've created
-* Admin permissions that allow the editing/deletion of other users' campgrounds and reviews
+## Features
+
+<img width="1098" alt="screen shot 2018-10-26 at 9 59 59 pm" src="https://user-images.githubusercontent.com/41349472/47598506-7fe0cd80-d96a-11e8-9d7d-a1ff8a358fcd.png">
+
+* Authentication:
+  
+  * User login with username and password
+
+  * Admin sign-up with admin code
+
+* Authorization:
+
+  * One cannot manage posts and view user profile without being authenticated
+
+  * One cannot edit or delete posts and comments created by other users
+
+  * Admin can manage all posts and comments
+
+* Manage campground posts with basic functionalities:
+
+  * Create, edit and delete posts and comments
+
+  * Upload campground photos
+  
+  * Search existing campgrounds
+
+* Manage user account with basic functionalities:
+
+  * Profile page setup with sign-up
+
+* Flash messages responding to users' interaction with the app
+
+* Responsive web design
+
+### Custom Enhancements
+
+* Update campground photos when editing campgrounds
+
+* Update personal information on profile page
 
 ## Built with
 
