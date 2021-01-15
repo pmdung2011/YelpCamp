@@ -14,7 +14,7 @@ YelpCamp is a full-stack, RESTful web application project created alongside the 
   * User login with username and password
 
   * Admin sign-up with admin code
-  <img width="1098" alt="Screenshot login" src="https://user-images.githubusercontent.com/54776410/104696373-cd74bc80-56d3-11eb-81e0-dfbc6e53031e.png">
+  <img width="800" alt="Screenshot login" src="https://user-images.githubusercontent.com/54776410/104696373-cd74bc80-56d3-11eb-81e0-dfbc6e53031e.png">
 
 * Authorization:
 
