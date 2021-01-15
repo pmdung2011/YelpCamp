@@ -75,7 +75,6 @@ YelpCamp is a full-stack, RESTful web application project created alongside the 
 
 * [Heroku](https://www.heroku.com/)
 * [Cloud9](https://aws.amazon.com/cloud9/?origin=c9io)
-## License
 
 License
 -------
