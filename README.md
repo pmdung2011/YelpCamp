@@ -4,6 +4,9 @@ YelpCamp
 
 YelpCamp is a full-stack, RESTful web application project created alongside the Udemy course - [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/). YelpCamp is a campground rating web app, where users can create their own campgrounds, view and comment on others' campgrounds.
 
+## Live Demo
+
+https://calm-river-85946.herokuapp.com/
 
 ## Features
 
